@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 300px;
+    width: 300px;
+    margin: 100px 400px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.mynum{
+   margin: 30px 5px 10px 5px;
+    width: 90%;
+    height: 20px;
+    padding: 8px;
+    border-radius: 20px;
+    display: block;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px 32px;
+    width: 80px;
+    padding: 8px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    background-color:#ebfff9 ;
+}
+
+.span{
+    margin: 10px 20px;
+    font-weight: bold;
+    font-size: 1em;
+}
